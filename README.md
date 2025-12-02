@@ -1,0 +1,1 @@
+Used Pose estimation models to identify pose from images and impose them on a mesh with skeleton imported from blender to try and replicate the motion in threejs
